@@ -1,0 +1,2 @@
+add_subdirectory(simple_test)
+add_subdirectory(simple_failing_test)
